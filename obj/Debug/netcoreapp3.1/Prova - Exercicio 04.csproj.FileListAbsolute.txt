@@ -1,0 +1,11 @@
+C:\Users\MRCR\source\repos\Prova - Exercicio 04\Prova - Exercicio 04\bin\Debug\netcoreapp3.1\Prova - Exercicio 04.exe
+C:\Users\MRCR\source\repos\Prova - Exercicio 04\Prova - Exercicio 04\bin\Debug\netcoreapp3.1\Prova - Exercicio 04.deps.json
+C:\Users\MRCR\source\repos\Prova - Exercicio 04\Prova - Exercicio 04\bin\Debug\netcoreapp3.1\Prova - Exercicio 04.runtimeconfig.json
+C:\Users\MRCR\source\repos\Prova - Exercicio 04\Prova - Exercicio 04\bin\Debug\netcoreapp3.1\Prova - Exercicio 04.runtimeconfig.dev.json
+C:\Users\MRCR\source\repos\Prova - Exercicio 04\Prova - Exercicio 04\bin\Debug\netcoreapp3.1\Prova - Exercicio 04.dll
+C:\Users\MRCR\source\repos\Prova - Exercicio 04\Prova - Exercicio 04\bin\Debug\netcoreapp3.1\Prova - Exercicio 04.pdb
+C:\Users\MRCR\source\repos\Prova - Exercicio 04\Prova - Exercicio 04\obj\Debug\netcoreapp3.1\Prova - Exercicio 04.csprojAssemblyReference.cache
+C:\Users\MRCR\source\repos\Prova - Exercicio 04\Prova - Exercicio 04\obj\Debug\netcoreapp3.1\Prova - Exercicio 04.AssemblyInfoInputs.cache
+C:\Users\MRCR\source\repos\Prova - Exercicio 04\Prova - Exercicio 04\obj\Debug\netcoreapp3.1\Prova - Exercicio 04.AssemblyInfo.cs
+C:\Users\MRCR\source\repos\Prova - Exercicio 04\Prova - Exercicio 04\obj\Debug\netcoreapp3.1\Prova - Exercicio 04.dll
+C:\Users\MRCR\source\repos\Prova - Exercicio 04\Prova - Exercicio 04\obj\Debug\netcoreapp3.1\Prova - Exercicio 04.pdb
